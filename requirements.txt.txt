@@ -1,2 +1,0 @@
-pip
-git+https://github.com/TheGithubber800/thegithubberstuff
